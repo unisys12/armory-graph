@@ -1,0 +1,19 @@
+{
+  "name": "armory-graph",
+  "version": "0.0.1",
+  "description": "Attempt at a GraphQL server",
+  "main": "server.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unisys12/armory-graph.git"
+  },
+  "author": "unisys12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unisys12/armory-graph/issues"
+  },
+  "homepage": "https://github.com/unisys12/armory-graph#readme"
+}
