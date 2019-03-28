@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/unisys12/armory-graph/issues"
   },
-  "homepage": "https://github.com/unisys12/armory-graph#readme"
+  "homepage": "https://github.com/unisys12/armory-graph#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.0",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {
+    "dotenv": "^7.0.0",
+    "nodemon": "^1.18.10"
+  }
 }
